@@ -29,7 +29,7 @@
 					</tr>
 					<tr>
 						<th>password:</th>
-						<td> Contact Admin JGran</td>
+						<td> <a href="http://q.gs/FNs7h">Show Password</a></td>
 					</tr>
 				</table>
 

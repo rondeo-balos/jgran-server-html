@@ -31,6 +31,10 @@
 						<th>password:</th>
 						<td> <a href="http://q.gs/FNs7h">Show Password</a></td>
 					</tr>
+					<tr>
+						<th>server:</th>
+						<td> <a href="http://j.gs/FUYt">Renew Server</a></td>
+					</tr>
 				</table>
 
 			</div>

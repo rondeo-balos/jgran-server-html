@@ -30,7 +30,7 @@
 					</tr>
 					<tr>
 						<th>password:</th>
-						<td> <a href="http://q.gs/FNs7h">Join Discord</a></td>
+						<td> <a href="http://q.gs/FNs7h">Join Discord</a> to get the password</td>
 					</tr>
 				</table>
 
